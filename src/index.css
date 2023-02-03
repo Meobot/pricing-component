@@ -18,6 +18,10 @@ body {
 
 .App {
 	width: 375px;
+	border: 2px solid blue;
+	display: flex;
+	align-items: center;
+	flex-direction: column;
 }
 
 .Header-container {
@@ -99,3 +103,19 @@ body {
 	transform: translateX(26px);
   }
   
+.Card {
+	border: 2px solid red;
+	width: 80%;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+.Card-title {
+	font-size: 1.1em;
+	color: hsl(233, 13%, 49%);
+}
+
+.Card-price {
+	
+}
