@@ -19,6 +19,7 @@ This is a solution to the [Pricing component with toggle challenge on Frontend M
 **Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
+Pricing Component made with React JS
 
 ### The challenge
 
