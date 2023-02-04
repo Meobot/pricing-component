@@ -15,7 +15,6 @@ body {
 
 .App {
 	width: 375px;
-	height: 100vh;
 	border: 2px solid blue;
 	display: flex;
 	align-items: center;
@@ -190,6 +189,7 @@ body {
 @media (min-width: 900px) {
 	.App {
 		width: 100vw;
+		height: 100vh;
 		background-image: url(/images/bg-top.svg), url(/images/bg-bottom.svg);
 		background-position: top right, bottom left;
 	}
