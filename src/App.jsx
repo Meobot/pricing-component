@@ -31,7 +31,9 @@ function App() {
 					<h2 className="toggle-h2">Monthly</h2>
 				</div>
 			</div>
-			{cards}
+			<div className="cards-container">
+				{cards}
+			</div>
 		</div>
 	)
 }
